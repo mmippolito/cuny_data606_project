@@ -1,0 +1,391 @@
+"","country","govt","head_of_state","exec_legitimacy","country_code","exec_legit_short","govt_type_short"
+"1","Afghanistan","republic","executive","presidency is independent of legislature","AFG","independent of legislature","republic with executive head
+independent of legislature"
+"2","Albania","republic","ceremonial","ministry is subject to parliamentary confidence","ALB","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"3","Algeria","republic","executive","presidency independent of legislature; ministry is subject to parliamentary confidence","DZA","independent of and accountable to legislature","republic with executive head
+independent of and accountable to legislature"
+"4","Andorra","constitutional monarchy","ceremonial","ministry is subject to parliamentary confidence","AND","accountable to legislature","constitutional monarchy with ceremonial head
+accountable to legislature"
+"5","Angola","republic","executive","presidency is independent of legislature","AGO","independent of legislature","republic with executive head
+independent of legislature"
+"6","Antigua and Barbuda","constitutional monarchy","ceremonial","ministry is subject to parliamentary confidence","ATG","accountable to legislature","constitutional monarchy with ceremonial head
+accountable to legislature"
+"7","Argentina","republic","executive","presidency is independent of legislature","ARG","independent of legislature","republic with executive head
+independent of legislature"
+"8","Armenia","republic","ceremonial","ministry is subject to parliamentary confidence","ARM","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"9","Australia","constitutional monarchy","ceremonial","ministry is subject to parliamentary confidence","AUS","accountable to legislature","constitutional monarchy with ceremonial head
+accountable to legislature"
+"10","Austria","republic","ceremonial","ministry is subject to parliamentary confidence","AUT","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"11","Azerbaijan","republic","executive","presidency independent of legislature; ministry is subject to parliamentary confidence","AZE","independent of and accountable to legislature","republic with executive head
+independent of and accountable to legislature"
+"12","Bahamas","constitutional monarchy","ceremonial","ministry is subject to parliamentary confidence","BHS","accountable to legislature","constitutional monarchy with ceremonial head
+accountable to legislature"
+"13","Bahrain","constitutional monarchy","executive","monarch personally exercises power in concert with other institutions","BHR","sharing power","constitutional monarchy with executive head
+sharing power"
+"14","Bangladesh","republic","ceremonial","ministry is subject to parliamentary confidence","BGD","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"15","Barbados","constitutional monarchy","ceremonial","ministry is subject to parliamentary confidence","BRB","accountable to legislature","constitutional monarchy with ceremonial head
+accountable to legislature"
+"16","Belarus","republic","executive","presidency is independent of legislature","BLR","independent of legislature","republic with executive head
+independent of legislature"
+"17","Belgium","constitutional monarchy","ceremonial","ministry is subject to parliamentary confidence","BEL","accountable to legislature","constitutional monarchy with ceremonial head
+accountable to legislature"
+"18","Belize","constitutional monarchy","ceremonial","ministry is subject to parliamentary confidence","BLZ","accountable to legislature","constitutional monarchy with ceremonial head
+accountable to legislature"
+"19","Benin","republic","executive","presidency is independent of legislature","BEN","independent of legislature","republic with executive head
+independent of legislature"
+"20","Bhutan","constitutional monarchy","executive","monarch personally exercises power in concert with other institutions","BTN","sharing power","constitutional monarchy with executive head
+sharing power"
+"21","Bolivia","republic","executive","presidency is independent of legislature","BOL","independent of legislature","republic with executive head
+independent of legislature"
+"22","Bosnia and Herzegovina","republic","ceremonial","ministry is subject to parliamentary confidence","BIH","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"23","Botswana","republic","executive","presidency is elected by legislature; ministry may be, or not be, subject to parliamentary confidence","BWA","elected by legislature","republic with executive head
+elected by legislature"
+"24","Brazil","republic","executive","presidency is independent of legislature","BRA","independent of legislature","republic with executive head
+independent of legislature"
+"25","Brunei","absolute monarchy","executive","all authority vested in absolute monarch","BRN","having absolute authority","absolute monarchy with executive head
+having absolute authority"
+"26","Bulgaria","republic","ceremonial","ministry is subject to parliamentary confidence","BGR","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"27","Burkina Faso","republic","executive","presidency independent of legislature; ministry is subject to parliamentary confidence","BFA","independent of and accountable to legislature","republic with executive head
+independent of and accountable to legislature"
+"28","Burundi","republic","executive","presidency is independent of legislature","BDI","independent of legislature","republic with executive head
+independent of legislature"
+"29","Cambodia","constitutional monarchy","ceremonial","ministry is subject to parliamentary confidence","KHM","accountable to legislature","constitutional monarchy with ceremonial head
+accountable to legislature"
+"30","Cameroon","republic","executive","presidency is independent of legislature","CMR","independent of legislature","republic with executive head
+independent of legislature"
+"31","Canada","constitutional monarchy","ceremonial","ministry is subject to parliamentary confidence","CAN","accountable to legislature","constitutional monarchy with ceremonial head
+accountable to legislature"
+"32","Cape Verde","republic","executive","presidency independent of legislature; ministry is subject to parliamentary confidence","CPV","independent of and accountable to legislature","republic with executive head
+independent of and accountable to legislature"
+"33","Central African Republic","republic","executive","presidency is independent of legislature","CAF","independent of legislature","republic with executive head
+independent of legislature"
+"34","Chad","republic","executive","presidency is independent of legislature","TCD","independent of legislature","republic with executive head
+independent of legislature"
+"35","Chile","republic","executive","presidency is independent of legislature","CHL","independent of legislature","republic with executive head
+independent of legislature"
+"36","China","republic","ceremonial","power constitutionally linked to a single political movement","CHN","constitutionally granted power by single party","republic with ceremonial head
+constitutionally granted power by single party"
+"37","Colombia","republic","executive","presidency is independent of legislature","COL","independent of legislature","republic with executive head
+independent of legislature"
+"38","Comoros","republic","executive","presidency is independent of legislature","COM","independent of legislature","republic with executive head
+independent of legislature"
+"39","Democratic Republic of Congo","republic","executive","presidency independent of legislature; ministry is subject to parliamentary confidence","COD","independent of and accountable to legislature","republic with executive head
+independent of and accountable to legislature"
+"40","Congo","republic","executive","presidency independent of legislature; ministry is subject to parliamentary confidence","COG","independent of and accountable to legislature","republic with executive head
+independent of and accountable to legislature"
+"41","Costa Rica","republic","executive","presidency is independent of legislature","CRI","independent of legislature","republic with executive head
+independent of legislature"
+"42","Cote d'Ivoire","republic","executive","presidency is independent of legislature","CIV","independent of legislature","republic with executive head
+independent of legislature"
+"43","Croatia","republic","ceremonial","ministry is subject to parliamentary confidence","HRV","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"44","Cuba","republic","executive","power constitutionally linked to a single political movement","CUB","constitutionally granted power by single party","republic with executive head
+constitutionally granted power by single party"
+"45","Cyprus","republic","executive","presidency is independent of legislature","CYP","independent of legislature","republic with executive head
+independent of legislature"
+"46","Czechia","republic","ceremonial","ministry is subject to parliamentary confidence","CZE","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"47","Denmark","constitutional monarchy","ceremonial","ministry is subject to parliamentary confidence","DNK","accountable to legislature","constitutional monarchy with ceremonial head
+accountable to legislature"
+"48","Djibouti","republic","executive","presidency is independent of legislature","DJI","independent of legislature","republic with executive head
+independent of legislature"
+"49","Dominica","republic","ceremonial","ministry is subject to parliamentary confidence","DMA","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"50","Dominican Republic","republic","executive","presidency is independent of legislature","DOM","independent of legislature","republic with executive head
+independent of legislature"
+"51","Timor","republic","executive","presidency independent of legislature; ministry is subject to parliamentary confidence","TLS","independent of and accountable to legislature","republic with executive head
+independent of and accountable to legislature"
+"52","Ecuador","republic","executive","presidency is independent of legislature","ECU","independent of legislature","republic with executive head
+independent of legislature"
+"53","Egypt","republic","executive","presidency independent of legislature; ministry is subject to parliamentary confidence","EGY","independent of and accountable to legislature","republic with executive head
+independent of and accountable to legislature"
+"54","El Salvador","republic","executive","presidency is independent of legislature","SLV","independent of legislature","republic with executive head
+independent of legislature"
+"55","Equatorial Guinea","republic","executive","presidency is independent of legislature","GNQ","independent of legislature","republic with executive head
+independent of legislature"
+"56","Eritrea","republic","executive","power constitutionally linked to a single political movement","ERI","constitutionally granted power by single party","republic with executive head
+constitutionally granted power by single party"
+"57","Estonia","republic","ceremonial","ministry is subject to parliamentary confidence","EST","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"58","Eswatini","absolute monarchy","executive","all authority vested in absolute monarch","SWZ","having absolute authority","absolute monarchy with executive head
+having absolute authority"
+"59","Ethiopia","republic","ceremonial","ministry is subject to parliamentary confidence","ETH","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"60","Micronesia","republic","executive","presidency is elected by legislature; ministry may be, or not be, subject to parliamentary confidence","","elected by legislature","republic with executive head
+elected by legislature"
+"61","Fiji","republic","ceremonial","ministry is subject to parliamentary confidence","FJI","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"62","Finland","republic","ceremonial","ministry is subject to parliamentary confidence","FIN","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"63","France","republic","executive","presidency independent of legislature; ministry is subject to parliamentary confidence","FRA","independent of and accountable to legislature","republic with executive head
+independent of and accountable to legislature"
+"64","Gabon","republic","executive","presidency is independent of legislature","GAB","independent of legislature","republic with executive head
+independent of legislature"
+"65","Gambia","republic","executive","presidency is independent of legislature","GMB","independent of legislature","republic with executive head
+independent of legislature"
+"66","Georgia","republic","ceremonial","ministry is subject to parliamentary confidence","GEO","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"67","Germany","republic","ceremonial","ministry is subject to parliamentary confidence","DEU","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"68","Ghana","republic","executive","presidency is independent of legislature","GHA","independent of legislature","republic with executive head
+independent of legislature"
+"69","Greece","republic","ceremonial","ministry is subject to parliamentary confidence","GRC","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"70","Grenada","constitutional monarchy","ceremonial","ministry is subject to parliamentary confidence","GRD","accountable to legislature","constitutional monarchy with ceremonial head
+accountable to legislature"
+"71","Guatemala","republic","executive","presidency is independent of legislature","GTM","independent of legislature","republic with executive head
+independent of legislature"
+"72","Guinea","republic","executive","presidency is independent of legislature","GIN","independent of legislature","republic with executive head
+independent of legislature"
+"73","Guinea-Bissau","republic","executive","presidency independent of legislature; ministry is subject to parliamentary confidence","GNB","independent of and accountable to legislature","republic with executive head
+independent of and accountable to legislature"
+"74","Guyana","republic","executive","presidency is independent of legislature","GUY","independent of legislature","republic with executive head
+independent of legislature"
+"75","Haiti","republic","executive","presidency independent of legislature; ministry is subject to parliamentary confidence","HTI","independent of and accountable to legislature","republic with executive head
+independent of and accountable to legislature"
+"76","Honduras","republic","executive","presidency is independent of legislature","HND","independent of legislature","republic with executive head
+independent of legislature"
+"77","Hungary","republic","ceremonial","ministry is subject to parliamentary confidence","HUN","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"78","Iceland","republic","ceremonial","ministry is subject to parliamentary confidence","ISL","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"79","India","republic","ceremonial","ministry is subject to parliamentary confidence","IND","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"80","Indonesia","republic","executive","presidency is independent of legislature","IDN","independent of legislature","republic with executive head
+independent of legislature"
+"81","Iran","republic","executive","presidency is independent of legislature","IRN","independent of legislature","republic with executive head
+independent of legislature"
+"82","Iraq","republic","ceremonial","ministry is subject to parliamentary confidence","IRQ","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"83","Ireland","republic","ceremonial","ministry is subject to parliamentary confidence","IRL","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"84","Israel","republic","ceremonial","ministry is subject to parliamentary confidence","ISR","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"85","Italy","republic","ceremonial","ministry is subject to parliamentary confidence","ITA","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"86","Jamaica","constitutional monarchy","ceremonial","ministry is subject to parliamentary confidence","JAM","accountable to legislature","constitutional monarchy with ceremonial head
+accountable to legislature"
+"87","Japan","constitutional monarchy","ceremonial","ministry is subject to parliamentary confidence","JPN","accountable to legislature","constitutional monarchy with ceremonial head
+accountable to legislature"
+"88","Jordan","constitutional monarchy","executive","monarch personally exercises power in concert with other institutions","JOR","sharing power","constitutional monarchy with executive head
+sharing power"
+"89","Kazakhstan","republic","executive","presidency is independent of legislature","KAZ","independent of legislature","republic with executive head
+independent of legislature"
+"90","Kenya","republic","executive","presidency is independent of legislature","KEN","independent of legislature","republic with executive head
+independent of legislature"
+"91","Kiribati","republic","executive","presidency is elected by legislature; ministry may be, or not be, subject to parliamentary confidence",NA,"elected by legislature","republic with executive head
+elected by legislature"
+"92","North Korea","republic","executive","power constitutionally linked to a single political movement","PRK","constitutionally granted power by single party","republic with executive head
+constitutionally granted power by single party"
+"93","South Korea","republic","executive","presidency is independent of legislature","KOR","independent of legislature","republic with executive head
+independent of legislature"
+"94","Kuwait","constitutional monarchy","executive","monarch personally exercises power in concert with other institutions","KWT","sharing power","constitutional monarchy with executive head
+sharing power"
+"95","Kyrgyzstan","republic","ceremonial","ministry is subject to parliamentary confidence","KGZ","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"96","Laos","republic","executive","power constitutionally linked to a single political movement","LAO","constitutionally granted power by single party","republic with executive head
+constitutionally granted power by single party"
+"97","Latvia","republic","ceremonial","ministry is subject to parliamentary confidence","LVA","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"98","Lebanon","republic","ceremonial","ministry is subject to parliamentary confidence","LBN","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"99","Lesotho","constitutional monarchy","ceremonial","ministry is subject to parliamentary confidence","LSO","accountable to legislature","constitutional monarchy with ceremonial head
+accountable to legislature"
+"100","Liberia","republic","executive","presidency is independent of legislature","LBR","independent of legislature","republic with executive head
+independent of legislature"
+"101","Libya","provisional","no","no constitutionally-defined basis to current regime","LBY","with no contsitutional legitimacy","provisional with no head
+with no contsitutional legitimacy"
+"102","Liechtenstein","constitutional monarchy","executive","monarch personally exercises power in concert with other institutions","LIE","sharing power","constitutional monarchy with executive head
+sharing power"
+"103","Lithuania","republic","executive","presidency independent of legislature; ministry is subject to parliamentary confidence","LTU","independent of and accountable to legislature","republic with executive head
+independent of and accountable to legislature"
+"104","Luxembourg","constitutional monarchy","ceremonial","ministry is subject to parliamentary confidence","LUX","accountable to legislature","constitutional monarchy with ceremonial head
+accountable to legislature"
+"105","Madagascar","republic","executive","presidency independent of legislature; ministry is subject to parliamentary confidence","MDG","independent of and accountable to legislature","republic with executive head
+independent of and accountable to legislature"
+"106","Malawi","republic","executive","presidency is independent of legislature","MWI","independent of legislature","republic with executive head
+independent of legislature"
+"107","Malaysia","constitutional monarchy","ceremonial","ministry is subject to parliamentary confidence","MYS","accountable to legislature","constitutional monarchy with ceremonial head
+accountable to legislature"
+"108","Maldives","republic","executive","presidency is independent of legislature","MDV","independent of legislature","republic with executive head
+independent of legislature"
+"109","Mali","provisional","no","no constitutionally-defined basis to current regime","MLI","with no contsitutional legitimacy","provisional with no head
+with no contsitutional legitimacy"
+"110","Malta","republic","ceremonial","ministry is subject to parliamentary confidence","MLT","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"111","Marshall Islands","republic","executive","presidency is elected by legislature; ministry may be, or not be, subject to parliamentary confidence","MHL","elected by legislature","republic with executive head
+elected by legislature"
+"112","Mauritania","republic","executive","presidency independent of legislature; ministry is subject to parliamentary confidence","MRT","independent of and accountable to legislature","republic with executive head
+independent of and accountable to legislature"
+"113","Mauritius","republic","ceremonial","ministry is subject to parliamentary confidence","MUS","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"114","Mexico","republic","executive","presidency is independent of legislature","MEX","independent of legislature","republic with executive head
+independent of legislature"
+"115","Moldova","republic","ceremonial","ministry is subject to parliamentary confidence","MDA","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"116","Monaco","constitutional monarchy","executive","monarch personally exercises power in concert with other institutions","MCO","sharing power","constitutional monarchy with executive head
+sharing power"
+"117","Mongolia","republic","executive","presidency independent of legislature; ministry is subject to parliamentary confidence","MNG","independent of and accountable to legislature","republic with executive head
+independent of and accountable to legislature"
+"118","Montenegro","republic","ceremonial","ministry is subject to parliamentary confidence","MNE","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"119","Morocco","constitutional monarchy","executive","monarch personally exercises power in concert with other institutions","MAR","sharing power","constitutional monarchy with executive head
+sharing power"
+"120","Mozambique","republic","executive","presidency independent of legislature; ministry is subject to parliamentary confidence","MOZ","independent of and accountable to legislature","republic with executive head
+independent of and accountable to legislature"
+"121","Myanmar","provisional","no","no constitutionally-defined basis to current regime","MMR","with no contsitutional legitimacy","provisional with no head
+with no contsitutional legitimacy"
+"122","Namibia","republic","executive","presidency independent of legislature; ministry is subject to parliamentary confidence","NAM","independent of and accountable to legislature","republic with executive head
+independent of and accountable to legislature"
+"123","Nauru","republic","executive","presidency is elected by legislature; ministry may be, or not be, subject to parliamentary confidence",NA,"elected by legislature","republic with executive head
+elected by legislature"
+"124","Nepal","republic","ceremonial","ministry is subject to parliamentary confidence","NPL","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"125","Netherlands","constitutional monarchy","ceremonial","ministry is subject to parliamentary confidence","NLD","accountable to legislature","constitutional monarchy with ceremonial head
+accountable to legislature"
+"126","New Zealand","constitutional monarchy","ceremonial","ministry is subject to parliamentary confidence","NZL","accountable to legislature","constitutional monarchy with ceremonial head
+accountable to legislature"
+"127","Nicaragua","republic","executive","presidency is independent of legislature","NIC","independent of legislature","republic with executive head
+independent of legislature"
+"128","Niger","republic","executive","presidency independent of legislature; ministry is subject to parliamentary confidence","NER","independent of and accountable to legislature","republic with executive head
+independent of and accountable to legislature"
+"129","Nigeria","republic","executive","presidency is independent of legislature","NGA","independent of legislature","republic with executive head
+independent of legislature"
+"130","North Macedonia","republic","ceremonial","ministry is subject to parliamentary confidence","MKD","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"131","Norway","constitutional monarchy","ceremonial","ministry is subject to parliamentary confidence","NOR","accountable to legislature","constitutional monarchy with ceremonial head
+accountable to legislature"
+"132","Oman","absolute monarchy","executive","all authority vested in absolute monarch","OMN","having absolute authority","absolute monarchy with executive head
+having absolute authority"
+"133","Pakistan","republic","ceremonial","ministry is subject to parliamentary confidence","PAK","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"134","Palau","republic","executive","presidency is independent of legislature","PLW","independent of legislature","republic with executive head
+independent of legislature"
+"135","Palestine","republic","executive","presidency independent of legislature; ministry is subject to parliamentary confidence","PSE","independent of and accountable to legislature","republic with executive head
+independent of and accountable to legislature"
+"136","Panama","republic","executive","presidency is independent of legislature","PAN","independent of legislature","republic with executive head
+independent of legislature"
+"137","Papua New Guinea","constitutional monarchy","ceremonial","ministry is subject to parliamentary confidence","PNG","accountable to legislature","constitutional monarchy with ceremonial head
+accountable to legislature"
+"138","Paraguay","republic","executive","presidency is independent of legislature","PRY","independent of legislature","republic with executive head
+independent of legislature"
+"139","Peru","republic","executive","presidency is independent of legislature","PER","independent of legislature","republic with executive head
+independent of legislature"
+"140","Philippines","republic","executive","presidency is independent of legislature","PHL","independent of legislature","republic with executive head
+independent of legislature"
+"141","Poland","republic","executive","presidency independent of legislature; ministry is subject to parliamentary confidence","POL","independent of and accountable to legislature","republic with executive head
+independent of and accountable to legislature"
+"142","Portugal","republic","executive","presidency independent of legislature; ministry is subject to parliamentary confidence","PRT","independent of and accountable to legislature","republic with executive head
+independent of and accountable to legislature"
+"143","Qatar","constitutional monarchy","executive","monarch personally exercises power in concert with other institutions","QAT","sharing power","constitutional monarchy with executive head
+sharing power"
+"144","Romania","republic","executive","presidency independent of legislature; ministry is subject to parliamentary confidence","ROU","independent of and accountable to legislature","republic with executive head
+independent of and accountable to legislature"
+"145","Russia","republic","executive","presidency independent of legislature; ministry is subject to parliamentary confidence","RUS","independent of and accountable to legislature","republic with executive head
+independent of and accountable to legislature"
+"146","Rwanda","republic","executive","presidency is independent of legislature","RWA","independent of legislature","republic with executive head
+independent of legislature"
+"147","Saint Kitts and Nevis","constitutional monarchy","ceremonial","ministry is subject to parliamentary confidence","KNA","accountable to legislature","constitutional monarchy with ceremonial head
+accountable to legislature"
+"148","Saint Lucia","constitutional monarchy","ceremonial","ministry is subject to parliamentary confidence","LCA","accountable to legislature","constitutional monarchy with ceremonial head
+accountable to legislature"
+"149","Saint Vincent and the Grenadines","constitutional monarchy","ceremonial","ministry is subject to parliamentary confidence","VCT","accountable to legislature","constitutional monarchy with ceremonial head
+accountable to legislature"
+"150","Samoa","republic","ceremonial","ministry is subject to parliamentary confidence","WSM","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"151","San Marino","republic","executive","presidency is elected by legislature; ministry may be, or not be, subject to parliamentary confidence","SMR","elected by legislature","republic with executive head
+elected by legislature"
+"152","Sao Tome and Principe","republic","executive","presidency independent of legislature; ministry is subject to parliamentary confidence","STP","independent of and accountable to legislature","republic with executive head
+independent of and accountable to legislature"
+"153","Saudi Arabia","absolute monarchy","executive","all authority vested in absolute monarch","SAU","having absolute authority","absolute monarchy with executive head
+having absolute authority"
+"154","Senegal","republic","executive","presidency is independent of legislature","SEN","independent of legislature","republic with executive head
+independent of legislature"
+"155","Serbia","republic","ceremonial","ministry is subject to parliamentary confidence","SRB","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"156","Seychelles","republic","executive","presidency is independent of legislature","SYC","independent of legislature","republic with executive head
+independent of legislature"
+"157","Sierra Leone","republic","executive","presidency is independent of legislature","SLE","independent of legislature","republic with executive head
+independent of legislature"
+"158","Singapore","republic","ceremonial","ministry is subject to parliamentary confidence","SGP","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"159","Slovakia","republic","ceremonial","ministry is subject to parliamentary confidence","SVK","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"160","Slovenia","republic","ceremonial","ministry is subject to parliamentary confidence","SVN","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"161","Solomon Islands","constitutional monarchy","ceremonial","ministry is subject to parliamentary confidence","SLB","accountable to legislature","constitutional monarchy with ceremonial head
+accountable to legislature"
+"162","Somalia","republic","ceremonial","ministry is subject to parliamentary confidence","SOM","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"163","South Africa","republic","executive","presidency is elected by legislature; ministry may be, or not be, subject to parliamentary confidence","ZAF","elected by legislature","republic with executive head
+elected by legislature"
+"164","South Sudan","republic","executive","presidency is independent of legislature","SSD","independent of legislature","republic with executive head
+independent of legislature"
+"165","Spain","constitutional monarchy","ceremonial","ministry is subject to parliamentary confidence","ESP","accountable to legislature","constitutional monarchy with ceremonial head
+accountable to legislature"
+"166","Sri Lanka","republic","executive","presidency independent of legislature; ministry is subject to parliamentary confidence","LKA","independent of and accountable to legislature","republic with executive head
+independent of and accountable to legislature"
+"167","Sudan","provisional","no","no constitutionally-defined basis to current regime","SDN","with no contsitutional legitimacy","provisional with no head
+with no contsitutional legitimacy"
+"168","Suriname","republic","executive","presidency is elected by legislature; ministry may be, or not be, subject to parliamentary confidence","SUR","elected by legislature","republic with executive head
+elected by legislature"
+"169","Sweden","constitutional monarchy","ceremonial","ministry is subject to parliamentary confidence","SWE","accountable to legislature","constitutional monarchy with ceremonial head
+accountable to legislature"
+"170","Switzerland","republic","executive","presidency is elected by legislature; ministry may be, or not be, subject to parliamentary confidence","CHE","elected by legislature","republic with executive head
+elected by legislature"
+"171","Syria","republic","executive","presidency independent of legislature; ministry is subject to parliamentary confidence","SYR","independent of and accountable to legislature","republic with executive head
+independent of and accountable to legislature"
+"172","Tajikistan","republic","executive","presidency is independent of legislature","TJK","independent of legislature","republic with executive head
+independent of legislature"
+"173","Tanzania","republic","executive","presidency is independent of legislature","TZA","independent of legislature","republic with executive head
+independent of legislature"
+"174","Thailand","constitutional monarchy","ceremonial","ministry is subject to parliamentary confidence","THA","accountable to legislature","constitutional monarchy with ceremonial head
+accountable to legislature"
+"175","Togo","republic","executive","presidency is independent of legislature","TGO","independent of legislature","republic with executive head
+independent of legislature"
+"176","Tonga","constitutional monarchy","executive","monarch personally exercises power in concert with other institutions","TON","sharing power","constitutional monarchy with executive head
+sharing power"
+"177","Trinidad and Tobago","republic","ceremonial","ministry is subject to parliamentary confidence","TTO","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"178","Tunisia","republic","executive","presidency independent of legislature; ministry is subject to parliamentary confidence","TUN","independent of and accountable to legislature","republic with executive head
+independent of and accountable to legislature"
+"179","Turkey","republic","executive","presidency is independent of legislature","TUR","independent of legislature","republic with executive head
+independent of legislature"
+"180","Turkmenistan","republic","executive","presidency is independent of legislature","TKM","independent of legislature","republic with executive head
+independent of legislature"
+"181","Tuvalu","constitutional monarchy","ceremonial","ministry is subject to parliamentary confidence",NA,"accountable to legislature","constitutional monarchy with ceremonial head
+accountable to legislature"
+"182","Uganda","republic","executive","presidency is independent of legislature","UGA","independent of legislature","republic with executive head
+independent of legislature"
+"183","Ukraine","republic","executive","presidency independent of legislature; ministry is subject to parliamentary confidence","UKR","independent of and accountable to legislature","republic with executive head
+independent of and accountable to legislature"
+"184","United Arab Emirates","constitutional monarchy","executive","monarch personally exercises power in concert with other institutions","ARE","sharing power","constitutional monarchy with executive head
+sharing power"
+"185","United Kingdom","constitutional monarchy","ceremonial","ministry is subject to parliamentary confidence","GBR","accountable to legislature","constitutional monarchy with ceremonial head
+accountable to legislature"
+"186","United States","republic","executive","presidency is independent of legislature","USA","independent of legislature","republic with executive head
+independent of legislature"
+"187","Uruguay","republic","executive","presidency is independent of legislature","URY","independent of legislature","republic with executive head
+independent of legislature"
+"188","Uzbekistan","republic","executive","presidency independent of legislature; ministry is subject to parliamentary confidence","UZB","independent of and accountable to legislature","republic with executive head
+independent of and accountable to legislature"
+"189","Vanuatu","republic","ceremonial","ministry is subject to parliamentary confidence","VUT","accountable to legislature","republic with ceremonial head
+accountable to legislature"
+"190","Vatican","absolute monarchy","executive","all authority vested in absolute monarch","VAT","having absolute authority","absolute monarchy with executive head
+having absolute authority"
+"191","Venezuela","republic","executive","presidency is independent of legislature","VEN","independent of legislature","republic with executive head
+independent of legislature"
+"192","Vietnam","republic","executive","power constitutionally linked to a single political movement","VNM","constitutionally granted power by single party","republic with executive head
+constitutionally granted power by single party"
+"193","Yemen","provisional","no","no constitutionally-defined basis to current regime","YEM","with no contsitutional legitimacy","provisional with no head
+with no contsitutional legitimacy"
+"194","Zambia","republic","executive","presidency is independent of legislature","ZMB","independent of legislature","republic with executive head
+independent of legislature"
+"195","Zimbabwe","republic","executive","presidency is independent of legislature","ZWE","independent of legislature","republic with executive head
+independent of legislature"

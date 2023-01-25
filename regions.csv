@@ -1,0 +1,23 @@
+region_code,region_name
+0,European (East/West)
+1,West Africa
+2,North Africa
+3,East Africa
+4,South Africa,
+5,Middle East
+6,South-central Asia
+7,East Asia
+8,South America
+9,Central America,
+12,Mauritania-Mali-Niger-Chad
+14,Congo-Brazzaville
+23,Ethiopia-Eritrea-Somalia
+25,Egypt
+41,Congo-Kinshasa
+50,Turkey
+53,Sudan
+56,Iran,
+67,China-Myanmar (Burma)
+89,Panama-Colombia
+90,Mexico
+99,Isolated (Island)
